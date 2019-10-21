@@ -1,0 +1,166 @@
+{
+    "data": {
+        "29647715": {
+            "name": "Anne",
+            "lastName": "Linde",
+            "email": "anne_linde@yahoo.dk",
+            "password": "$2y$10$Yv0\/rpFCSq2fh7hGrWP9OeyH2exXhCCHQh8SNBXBs3cXq6ch9bIya",
+            "cpr": null,
+            "balance": 770,
+            "loginAttemptsLeft": 3,
+            "lastLoginAttempt": 0,
+            "active": true,
+            "admin": 1,
+            "activationKey": "5c6d58a90abce",
+            "requests": {
+                "7592": {
+                    "phone": "31111111",
+                    "amount": "50",
+                    "status": 0,
+                    "message": "Gas money"
+                }
+            },
+            "loans": {
+                "693": {
+                    "amount": "500",
+                    "active": 1
+                },
+                "139": {
+                    "amount": "200",
+                    "active": 1
+                }
+            },
+            "creditCards": {
+                "32818": {
+                    "type": "MasterCard",
+                    "regnr": 1630,
+                    "cardnr": 9032582645,
+                    "balance": 0,
+                    "active": 1
+                },
+                "48215": {
+                    "type": "VisaCard",
+                    "regnr": 8967,
+                    "cardnr": 1243611596,
+                    "balance": 0,
+                    "active": 1
+                }
+            },
+            "accounts": {
+                "L\u00f8nkonto": {
+                    "balance": 0,
+                    "name": "L\u00f8nkonto",
+                    "type": "Income",
+                    "currency": "USD"
+                },
+                "Madkonto": {
+                    "balance": 0,
+                    "name": "Madkonto",
+                    "type": "Checkings",
+                    "currency": "DKK"
+                }
+            },
+            "transactionsNotRead": {
+                "5c6e8aaa67a31": {
+                    "date": 1550748330,
+                    "amount": "10",
+                    "name": "Name",
+                    "lastName": "Last name",
+                    "fromPhone": "29647715",
+                    "message": "hi"
+                }
+            },
+            "transactions": {
+                "5c6e8aaa67a31": {
+                    "date": 1550748330,
+                    "amount": "10",
+                    "name": "Name",
+                    "lastName": "Last name",
+                    "fromPhone": "29647715",
+                    "message": "hi"
+                }
+            }
+        },
+        "31111111": {
+            "name": "Emma",
+            "lastName": "Andersen",
+            "email": "annelindemua@gmail.com",
+            "password": "$2y$10$00DRtnd8MjnOq\/BW\/ot3WOZz\/18wLvtUn7uJDxYeJom8rcVeDMpp6",
+            "cpr": null,
+            "balance": 135,
+            "loginAttemptsLeft": 1,
+            "lastLoginAttempt": 1550833784,
+            "active": true,
+            "admin": 0,
+            "activationKey": "5c6e98d8431c7",
+            "requests": {
+                "8718": {
+                    "phone": "29647715",
+                    "amount": "10",
+                    "status": 0,
+                    "message": "You owe me"
+                },
+                "5538": {
+                    "phone": "29647715",
+                    "amount": "10",
+                    "status": 1,
+                    "message": "yvkubli"
+                }
+            },
+            "loans": {
+                "564": {
+                    "amount": "500",
+                    "active": 0
+                }
+            },
+            "creditCards": {
+                "17001": {
+                    "type": "MasterCard",
+                    "regnr": 2897,
+                    "cardnr": 2797812360,
+                    "balance": 0,
+                    "active": 0
+                }
+            },
+            "accounts": {
+                "Money": {
+                    "balance": 0,
+                    "name": "Money",
+                    "type": "checkings",
+                    "currency": "EUR"
+                },
+                "L\u00f8nkonto": {
+                    "balance": 0,
+                    "name": "L\u00f8nkonto",
+                    "type": "Income",
+                    "currency": "DKK"
+                }
+            },
+            "transactionsNotRead": {},
+            "transactions": {}
+        },
+        "12345678": {
+            "name": "Arne",
+            "lastName": "Jacobsen",
+            "email": "anne309w@kea.stud.dk",
+            "password": "$2y$10$Z4H\/hln4k0ZwvXysFZZ7buE4be63vJKXroGAUnHbecfs6Qpydi9H2",
+            "cpr": null,
+            "balance": 100,
+            "loginAttemptsLeft": 2,
+            "lastLoginAttempt": 1550967733,
+            "active": true,
+            "admin": 0,
+            "activationKey": "5c6ea0a9680ac",
+            "requests": {},
+            "loans": {},
+            "creditCards": {},
+            "accounts": {
+                "5c6ea0a9680bc": {
+                    "balance": 0
+                }
+            },
+            "transactionsNotRead": {},
+            "transactions": {}
+        }
+    }
+}
